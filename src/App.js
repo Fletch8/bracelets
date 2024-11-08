@@ -21,7 +21,7 @@ const App = () => {
       <div className="content">
         <div>
           <h3 className="section-title">Shop</h3>
-          {/* <img src="your-image-path-1.jpg" alt="Bracelet 1" className="bracelet-image" /> */}
+          <img src="/images/b1.jpg" alt="Bracelet 1" className="bracelet-image" />
         </div>
         <div>
           <h3 className="section-title">About Us</h3>
